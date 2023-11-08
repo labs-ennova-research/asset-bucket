@@ -15,6 +15,7 @@
     "campaigns.create.notification-type.push": "Notifica Push",
     "campaigns.create.recipient.all-users": "Tutti gli utenti",
     "campaigns.list.actions.add": "Crea nuova campagna",
+    "campaigns.list.actions.duplicate": "Duplica Campagna",
     "campaigns.list.actions.info": "Informazioni campagna",
     "campaigns.list.table.delivered": "Notifiche inviate",
     "campaigns.list.table.end-date": "Data di fine",

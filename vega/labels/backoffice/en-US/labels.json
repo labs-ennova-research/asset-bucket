@@ -15,6 +15,7 @@
     "campaigns.create.notification-type.push": "Push Notification",
     "campaigns.create.recipient.all-users": "All the users",
     "campaigns.list.actions.add": "Create new campaign",
+    "campaigns.list.actions.duplicate": "Duplicate Campaign",
     "campaigns.list.actions.info": "Campaign information",
     "campaigns.list.table.delivered": "Delivered notifications",
     "campaigns.list.table.end-date": "End date",
