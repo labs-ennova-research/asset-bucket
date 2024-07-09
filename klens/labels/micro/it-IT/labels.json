@@ -20,5 +20,8 @@
   "mail.reactivate-user.one": "Gentile {{name}}",
   "mail.reactivate-user.subject": "Klens - Richiesta riattivazione account",
   "mail.reactivate-user.three": "Grazie, il team Klens.",
-  "mail.reactivate-user.two": "abbiamo provveduto a riattivare l'account, pertanto non sarà più cancellato."
+  "mail.reactivate-user.two": "abbiamo provveduto a riattivare l'account, pertanto non sarà più cancellato.",
+  "mail.created-user.one": "Gentile {{name}}",
+  "mail.created-user.subject": "Benvenuto il Klens, {{link \"Clicca qui\" hrefUrl token}} per impostare la tua password",
+  "mail.created-user.three": "Grazie, il team Klens."
 }

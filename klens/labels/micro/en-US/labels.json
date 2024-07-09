@@ -20,5 +20,8 @@
   "mail.reactivate-user.one": "Dear {{name}}",
   "mail.reactivate-user.subject": "Klens - Account reactivation request",
   "mail.reactivate-user.three": "Thank you, the Klens team.",
-  "mail.reactivate-user.two": "We have reactivated your account, so it will no longer be deleted."
+  "mail.reactivate-user.two": "We have reactivated your account, so it will no longer be deleted.",
+  "mail.created-user.one": "Dear {{name}}",
+  "mail.created-user.subject": "Welcome to Klens, {{link \"Click here \" hrefUrl token}} to set your password",
+  "mail.created-user.three": "Thank you, the Klens team"
 }
