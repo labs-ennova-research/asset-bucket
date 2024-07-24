@@ -25,5 +25,5 @@
   "mail.password-reset-success.three": "{{button \"Accedi\" buttonHrefUrl}}",
   "mail.password-reset-success.four": "Se non hai richiesto un reset della password, ti preghiamo di {{link \"contattare il supporto\" supportHrefUrl}} immediatamente o di rispondere a questa email. Per garantire la sicurezza del tuo account, ti consigliamo di modificare nuovamente la password e di rivedere le impostazioni di sicurezza.",
   "mail.password-reset-success.five": "Per ulteriori informazioni o assistenza, non esitare a contattare il nostro team di supporto.",
-  "mail.footer.thank-you": "Grazie, il team Klens"
+  "mail.footer.thank-you": "Grazie,<br> il team Klens"
 }
